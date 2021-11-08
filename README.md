@@ -2,7 +2,7 @@
 
 # Hi there 👋 my name is Mert DOĞRAMACI!
 
-📫 How to reach me:
+## 📫 How to reach me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdogramaci/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertdogramaci26)
 [![](https://img.shields.io/twitter/follow/mertdogramaci26?style=social)](https://www.twitter.com/mertdogramaci26)
