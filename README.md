@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertdogramaci26)
 [![](https://img.shields.io/twitter/follow/mertdogramaci26?style=social)](https://www.twitter.com/mertdogramaci26)
 [![](https://img.shields.io/github/followers/mertdogramaci?style=social)](https://www.github.com/mertdogramaci)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertdogramaci@gmail.com)](mailto:mertdogramaci@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/mertdogramaci@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertdogramaci@gmail.com)](mailto:mertdogramaci@gmail.com)
 
 
 <!--
