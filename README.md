@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mertdogramaci&show_icons=true">
 
-# Hi there 👋 I am Mert DOĞRAMACI!
+# Hello there 👋 I am Mert DOĞRAMACI!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertdogramaci" alt="mertdogramaci" /> </p>
 
